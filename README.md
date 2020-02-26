@@ -1,0 +1,1 @@
+This is a 5x5 grid world with minimal obstacles, three people, and one agent searching for a specific person. 

@@ -1,0 +1,1 @@
+from gym_personfinding.envs.personfinding_env import PersonFindingEnv
